@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Log In Korbo</string>
+    <string name="hello_world">Show Text</string>
+    <string name="show">Show Text</string>
+    <string name="login">Login Button</string>
+</resources>
